@@ -1,0 +1,82 @@
+[FTAL] 2021/09/07 14:35 ~~> Redis初始化错误,原因:dial tcp 127.0.0.1:6379: connect: connection refused
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[WARN] 2021/09/07 14:36 the standard API to register a context handler could be used instead
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:27] GET: /api/admin/role/roleOfPolicys/{roleKey:string}/{domain:string} -> github.com/kataras/iris/v12/hero.makeHandler.func2() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:26] GET: /api/admin/role/roleOfMenus/{roleKey:string} -> github.com/kataras/iris/v12/hero.makeHandler.func2() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:26] DELETE: /api/admin/user -> goiris/admin/app/web/router.(*AdminUserService).delete-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:27] OPTIONS: /api/admin/user -> goiris/admin/app/web/router.(*AdminUserService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:27] PUT: /api/admin/user -> goiris/admin/app/web/router.(*AdminUserService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:28] OPTIONS: /api/admin/user/table -> goiris/admin/app/web/router.(*AdminUserService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:28] POST: /api/admin/user/table -> goiris/admin/app/web/router.(*AdminUserService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:30] OPTIONS: /api/admin/user/login -> goiris/admin/app/web/router.(*AdminUserService).login-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:30] POST: /api/admin/user/login -> goiris/admin/app/web/router.(*AdminUserService).login-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:31] OPTIONS: /api/admin/user/userBaseInfo -> goiris/admin/app/web/router.(*AdminUserService).userBaseInfo-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:24] OPTIONS: /api/admin/policy/all -> goiris/admin/app/web/router.(*PolicyService).all-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:32] OPTIONS: /api/admin/user/logout -> goiris/admin/app/web/router.(*AdminUserService).logout-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:23] POST: /api/admin/policy/table -> goiris/admin/app/web/router.(*PolicyService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:20] OPTIONS: /api/admin/menu/all -> goiris/admin/app/web/router.(*MenuService).all-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:23] OPTIONS: /api/admin/policy/table -> goiris/admin/app/web/router.(*PolicyService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:21] OPTIONS: /api/admin/menu/own -> goiris/admin/app/web/router.(*MenuService).own-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:22] PUT: /api/admin/policy -> goiris/admin/app/web/router.(*PolicyService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:23] POST: /api/admin/menu -> goiris/admin/app/web/router.(*MenuService).create-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:24] DELETE: /api/admin/menu -> goiris/admin/app/web/router.(*MenuService).delete-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:25] OPTIONS: /api/admin/menu -> goiris/admin/app/web/router.(*MenuService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:25] PUT: /api/admin/menu -> goiris/admin/app/web/router.(*MenuService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:26] OPTIONS: /api/admin/menu/table -> goiris/admin/app/web/router.(*MenuService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:26] POST: /api/admin/menu/table -> goiris/admin/app/web/router.(*MenuService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:25] POST: /api/admin/user -> goiris/admin/app/web/router.(*AdminUserService).create-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:22] OPTIONS: /api/admin/policy -> goiris/admin/app/web/router.(*PolicyService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:20] POST: /api/admin/role -> goiris/admin/app/web/router.(*RoleService).create-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:21] DELETE: /api/admin/role -> goiris/admin/app/web/router.(*RoleService).delete-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:22] OPTIONS: /api/admin/role -> goiris/admin/app/web/router.(*RoleService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:22] PUT: /api/admin/role -> goiris/admin/app/web/router.(*RoleService).put-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:23] OPTIONS: /api/admin/role/domainList -> goiris/admin/app/web/router.(*RoleService).domainList-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:21] DELETE: /api/admin/policy -> goiris/admin/app/web/router.(*PolicyService).delete-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:24] OPTIONS: /api/admin/role/group -> goiris/admin/app/web/router.(*RoleService).group-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:20] POST: /api/admin/policy -> goiris/admin/app/web/router.(*PolicyService).create-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:25] OPTIONS: /api/admin/role/table -> goiris/admin/app/web/router.(*RoleService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:25] POST: /api/admin/role/table -> goiris/admin/app/web/router.(*RoleService).table-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:26] OPTIONS: /api/admin/role/roleOfMenus/{roleKey:string} -> github.com/kataras/iris/v12/hero.makeHandler.func2() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:27] OPTIONS: /api/admin/menu/parentMenus -> goiris/admin/app/web/router.(*MenuService).parentMenus-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:27] OPTIONS: /api/admin/role/roleOfPolicys/{roleKey:string}/{domain:string} -> github.com/kataras/iris/v12/hero.makeHandler.func2() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/policy_router.go:24] GET: /api/admin/policy/all -> goiris/admin/app/web/router.(*PolicyService).all-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:24] GET: /api/admin/role/group -> goiris/admin/app/web/router.(*RoleService).group-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/role_router.go:23] GET: /api/admin/role/domainList -> goiris/admin/app/web/router.(*RoleService).domainList-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:27] GET: /api/admin/menu/parentMenus -> goiris/admin/app/web/router.(*MenuService).parentMenus-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:21] GET: /api/admin/menu/own -> goiris/admin/app/web/router.(*MenuService).own-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/menu_router.go:20] GET: /api/admin/menu/all -> goiris/admin/app/web/router.(*MenuService).all-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:32] GET: /api/admin/user/logout -> goiris/admin/app/web/router.(*AdminUserService).logout-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/web/router/admin_user_router.go:31] GET: /api/admin/user/userBaseInfo -> goiris/admin/app/web/router.(*AdminUserService).userBaseInfo-fm() and 4 more
+[DBUG] 2021/09/07 14:36 [./admin/app/middleware/sockets/websoket.go:66] GET: /echo -> github.com/kataras/iris/v12/websocket.Handler.func1()
+[DBUG] 2021/09/07 14:36 Application: running using 1 host(s)
+[DBUG] 2021/09/07 14:36 Host: addr is :8081
+[DBUG] 2021/09/07 14:36 Host: virtual host is 0.0.0.0:8081
+[DBUG] 2021/09/07 14:36 Host: register startup notifier
+[DBUG] 2021/09/07 14:36 Host: register server shutdown on interrupt(CTRL+C/CMD+C)
+Now listening on: http://0.0.0.0:8081
+Application started. Press CMD+C to shut down.
+[ERRO] 2021/09/07 14:40 http: Server closed
+[FTAL] 2021/09/07 14:40 Start admin server failed. And err:http: Server closed

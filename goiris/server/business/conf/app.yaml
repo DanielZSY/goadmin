@@ -1,0 +1,21 @@
+Configuration:
+  DisablePathCorrection: false
+  EnablePathEscape: false
+  FireMethodNotAllowed: false
+  DisableBodyConsumptionOnUnmarshal: true
+  TimeFormat: Mon, 01 Jan 2006 15:04:05 GMT
+  Charset: UTF-8
+
+#自定义配置
+own:
+  separate: true
+  port: 8082
+  ignoreUrls: [/api/login, /im/login]
+  jwtTimeout: 120 #minute
+  logLevel: debug
+  secret: xxx-Secret
+  websocketPool: 100
+  domain: a
+  Debug: true
+
+

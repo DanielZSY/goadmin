@@ -1,0 +1,24 @@
+redis:
+  addr: 127.0.0.1:6379
+  password: 123
+  db: 1
+  poolSize: 100
+
+mongodb:
+  addr: mongodb://127.0.0.1:27017
+  database: casbin
+  connectTimeout: 5 #s
+  maxPoolSize: 100
+
+mysql:
+  dialect: mysql
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: root
+  database: admins
+  charset: utf8mb4
+  showSql: true
+  logLevel: debug
+  maxOpenConns: 800 # 最大打开连接数
+  maxIdleConns: 100 # 连接池的空闲数大小
